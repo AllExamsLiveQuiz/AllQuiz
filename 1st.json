@@ -1,0 +1,76 @@
+{
+  "quiz_name": "Polity Test 1 - Fundamental Rights",
+  "subject": "Polity",
+  "topic": "Fundamental Rights",
+  "exam": "UPSC CSE Prelims",
+
+  "time_minutes": 30,
+
+  "marks_per_correct": 2,
+  "negative_marks": -0.666,
+
+  "password": "polity96",
+
+  "admin_phone": "919649346723",
+  "whatsapp_group": "https://chat.whatsapp.com/DVqpQQvYJZo1SC4ch6pRbS",
+
+  "questions": [
+    {
+      "question": "Which of the following Fundamental Rights is available only to citizens and not to foreigners?",
+      "questionHindi": "निम्नलिखित में से कौन-सा मूल अधिकार केवल नागरिकों को उपलब्ध है, विदेशियों को नहीं?",
+      "options": [
+        "Right to equality before law",
+        "Freedom of speech and expression",
+        "Right against exploitation",
+        "Right to life and personal liberty"
+      ],
+      "optionsHindi": [
+        "कानून के समक्ष समानता का अधिकार",
+        "वाक् एवं अभिव्यक्ति की स्वतंत्रता",
+        "शोषण के विरुद्ध अधिकार",
+        "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार"
+      ],
+      "answer": 1,
+      "explanation": "Freedom of speech (Article 19) is available only to citizens. Articles 14, 23, 21 are available to all persons including foreigners.",
+      "explanationHindi": "अनुच्छेद 19 के तहत वाक् स्वतंत्रता केवल नागरिकों को उपलब्ध है। अनुच्छेद 14, 23, 21 सभी व्यक्तियों को उपलब्ध हैं।"
+    },
+    {
+      "question": "Article 21A, which provides Right to Education, was added by which Constitutional Amendment?",
+      "questionHindi": "अनुच्छेद 21A जो शिक्षा का अधिकार प्रदान करता है, किस संवैधानिक संशोधन द्वारा जोड़ा गया?",
+      "options": [
+        "86th Amendment Act, 2002",
+        "44th Amendment Act, 1978",
+        "73rd Amendment Act, 1992",
+        "61st Amendment Act, 1988"
+      ],
+      "optionsHindi": [
+        "86वाँ संशोधन अधिनियम, 2002",
+        "44वाँ संशोधन अधिनियम, 1978",
+        "73वाँ संशोधन अधिनियम, 1992",
+        "61वाँ संशोधन अधिनियम, 1988"
+      ],
+      "answer": 0,
+      "explanation": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A providing free and compulsory education to children aged 6-14 years.",
+      "explanationHindi": "86वें संविधान संशोधन अधिनियम, 2002 ने अनुच्छेद 21A जोड़ा जो 6-14 वर्ष के बच्चों को निःशुल्क एवं अनिवार्य शिक्षा प्रदान करता है।"
+    },
+    {
+      "question": "The concept of 'Double Jeopardy' is related to which Article of the Indian Constitution?",
+      "questionHindi": "'दोहरे खतरे' (Double Jeopardy) की अवधारणा भारतीय संविधान के किस अनुच्छेद से संबंधित है?",
+      "options": [
+        "Article 20(1)",
+        "Article 20(2)",
+        "Article 20(3)",
+        "Article 21"
+      ],
+      "optionsHindi": [
+        "अनुच्छेद 20(1)",
+        "अनुच्छेद 20(2)",
+        "अनुच्छेद 20(3)",
+        "अनुच्छेद 21"
+      ],
+      "answer": 1,
+      "explanation": "Article 20(2) protects against Double Jeopardy — no person shall be prosecuted and punished for the same offence more than once.",
+      "explanationHindi": "अनुच्छेद 20(2) दोहरे खतरे से सुरक्षा प्रदान करता है — किसी भी व्यक्ति पर एक ही अपराध के लिए एक से अधिक बार अभियोजन नहीं चलाया जाएगा।"
+    }
+  ]
+}
